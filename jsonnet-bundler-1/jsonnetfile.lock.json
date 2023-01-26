@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/jsonnet-libs/xtd.git",
+          "subdir": ""
+        }
+      },
+      "version": "55e3a45de3bb72cee76c879f09a7ad7a476cc13f",
+      "sum": "cAgY2tMVilrhpyTOcvZZGBfQJMUkJAhM4DdaL1RHKOM="
+    }
+  ],
+  "legacyImports": false
+}
