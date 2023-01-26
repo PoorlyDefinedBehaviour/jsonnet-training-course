@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/Duologic/privatebin-libsonnet.git",
+          "subdir": ""
+        }
+      },
+      "version": "9a0dac13e323b44809000257eeff7022b23c6422",
+      "sum": "vqEFvXymBqFrC4x2p9mtP+3fTfLxA1hzHiv+Kr8eXso="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "subdir": "ksonnet-util"
+        }
+      },
+      "version": "09a66a888bfedc6a347a07544bf533fd5975acdb",
+      "sum": "/pkNOLhRqvQoPA0yYdUuJvpPHqhkCLauAUMD2ZHMIkE="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/jsonnet-libs/k8s-libsonnet.git",
+          "subdir": "1.23"
+        }
+      },
+      "version": "85543e49238903ac14b486321bd3d60fef09d9ef",
+      "sum": "RUryD1Z6qpW/EOGNal62T4CICQxQpwFa/TWHTebS7EQ="
+    }
+  ],
+  "legacyImports": false
+}
